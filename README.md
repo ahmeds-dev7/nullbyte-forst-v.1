@@ -2,12 +2,6 @@
 
 A clean and minimal KDE Plasma desktop setup built on **Linux Mint 22.3**.
 
-## Preview
-
-> *Add your desktop screenshot here.*
-
----
-
 ## Features
 
 * 🖥 KDE Plasma 5.27
